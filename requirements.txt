@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+together==1.1.0
+SpeechRecognition
+pyttsx3
+sounddevice
+psutil
+requests
+gunicorn==23.0.0
